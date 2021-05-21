@@ -8,6 +8,8 @@ where
 pattern_option = {left, right, full}, number = could be any positive integer
 and output the pattern depending on the input parameters as shown in Fig 1. Generate error
 messages for invalid input parameter.
+
+
 Q2)Write a script that displays a main menu and perform tasks based on the input value.
 Valid input values = {1, 2, 3, 4, exit}.
 The different options 1,2,3,4 will display the output as follow:
